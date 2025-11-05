@@ -1,0 +1,60 @@
+Question 1: Which part of the computer shows output?
+1) Keyboard
+2) Monitor
+3) Mouse
+4) CPU
+Answer: Option2: Monitor
+Question 2: Which device is used to enter data into a computer?
+1) Monitor
+2) Printer
+3) Keyboard
+4) Speaker
+Answer: Option3: Keyboard
+Question 3: What is the brain of the computer called?
+1) CPU
+2) RAM
+3) Monitor
+4) Keyboard
+Answer: Option1: CPU
+Question 4: Which device is used to print documents?
+1) Mouse
+2) Printer
+3) Monitor
+4) Scanner
+Answer: Option2: Printer
+Question 5: Which of these is a programming language?
+1) Python
+2) Microsoft
+3) Windows
+4) Google
+Answer: Option1: Python
+Question 6: What does RAM stand for?
+1) Random Access Memory
+2) Read And Move
+3) Run And Manage
+4) Read Access Monitor
+Answer: Option1: Random Access Memory
+Question 7: Which device is used to point and click on the screen?
+1) Keyboard
+2) Monitor
+3) Mouse
+4) CPU
+Answer: Option3: Mouse
+Question 8: Which of these is software?
+1) Keyboard
+2) MS Word
+3) Mouse
+4) Monitor
+Answer: Option2: MS Word
+Question 9: Which device stores data permanently?
+1) Hard Disk
+2) RAM
+3) CPU
+4) Monitor
+Answer: Option1: Hard Disk
+Question 10: What is the full form of CPU?
+1) Central Processing Unit
+2) Computer Processing Unit
+3) Central Program Unit
+4) Central Power Unit
+Answer: Option1: Central Processing Unit

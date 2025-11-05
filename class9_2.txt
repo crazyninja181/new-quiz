@@ -1,0 +1,60 @@
+1. What does the slope of a velocity-time graph represent?
+1) Acceleration
+2) Distance
+3) Displacement
+4) Speed
+Answer: option 1: Acceleration
+2. Which of Newton's Laws of Motion is also known as the Law of Inertia?
+1) Second Law
+2) Law of Gravitation
+3) Third Law
+4) First Law
+Answer: option 4: First Law
+3. The conversion of a solid directly into a gas without passing through the liquid state is called:
+1) Condensation
+2) Fusion
+3) Sublimation
+4) Evaporation
+Answer: option 3: Sublimation
+4. What is the phenomenon called when light scattering occurs in a colloid, making the path of light visible?
+1) Osmosis
+2) Diffusion
+3) Tyndall effect
+4) Brownian movement
+Answer: option 3: Tyndall effect
+5. The number of grams of a substance that contains one mole of molecules is called its:
+1) Molar Mass
+2) Atomic Number
+3) Avogadro Number
+4) Molar Volume
+Answer: option 1: Molar Mass
+6. Which cell organelle is known as the 'suicidal bag' of the cell?
+1) Mitochondrion
+2) Endoplasmic Reticulum
+3) Lysosome
+4) Ribosome
+Answer: option 3: Lysosome
+7. Which type of plant tissue is responsible for increasing the girth of the stem and root?
+1) Lateral meristem
+2) Intercalary meristem
+3) Apical meristem
+4) Parenchyma
+Answer: option 1: Lateral meristem
+8. The total energy of a falling body is conserved and converts from:
+1) Chemical to Heat
+2) Potential to Kinetic
+3) Potential to Chemical
+4) Kinetic to Potential
+Answer: option 2: Potential to Kinetic
+9. The speed of sound is maximum in which medium?
+1) Steel
+2) Water
+3) Vacuum
+4) Air
+Answer: option 1: Steel
+10. Which of the following is caused by a virus?
+1) Tuberculosis
+2) Cholera
+3) Typhoid
+4) Common cold
+Answer: option 4: Common cold

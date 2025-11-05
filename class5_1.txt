@@ -1,0 +1,50 @@
+Question 1: What is the difference between 875 and 321?
+1) 554
+2) 556
+3) 544
+Answer: Option1: 554
+Question 2: Subtract 4000 from 7589.
+1) 3589
+2) 3489
+3) 11589
+Answer: Option1: 3589
+Question 3: A baker made 1200 cookies. If she sold 850 of them, how many cookies are left?
+1) 450
+2) 350
+3) 250
+Answer: Option2: 350
+Question 4: Find the result of 5623 minus 2356.
+1) 3267
+2) 3277
+3) 3333
+Answer: Option1: 3267
+Question 5: Subtract 9 from 605.
+1) 594
+2) 596
+3) 604
+Answer: Option2: 596
+Question 6: The sum of two numbers is 914. If one number is 568, what is the other number?
+1) 346
+2) 446
+3) 356
+Answer: Option1: 346
+Question 7: How much greater is 6578 than 423?
+1) 6155
+2) 6153
+3) 6055
+Answer: Option1: 6155
+Question 8: Subtract 1 from the smallest 4-digit number.
+1) 999
+2) 990
+3) 1001
+Answer: Option1: 999
+Question 9: A train had 2345 passengers. At the first stop, 560 passengers got off. How many passengers remained on the train?
+1) 1885
+2) 1785
+3) 1765
+Answer: Option2: 1785
+Question 10: Find the difference between 9876 and 1005.
+1) 8771
+2) 8871
+3) 7871
+Answer: Option2: 8871

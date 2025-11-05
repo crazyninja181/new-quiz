@@ -1,0 +1,60 @@
+1. Which is an example of an Operating System?
+1) Microsoft Word
+2) Google Chrome
+3) Adobe Photoshop
+4) Windows 10
+Answer: option 4: Windows 10
+2. What is the process of loading the Operating System into the computer's memory called?
+1) Compiling
+2) Scanning
+3) Booting
+4) Formatting
+Answer: option 3: Booting
+3. Which memory is non-volatile and retains its data even when the power is switched off?
+1) RAM
+2) Cache Memory
+3) Register
+4) ROM
+Answer: option 4: ROM
+4. What is the standard file extension for a program written in the BASIC programming language?
+1) .BAS
+2) .DOCX
+3) .EXE
+4) .BMP
+Answer: option 1: .BAS
+5. A collection of interconnected computers within a small geographical area (like a school building) is called a:
+1) MAN
+2) WAN
+3) LAN
+4) Internet
+Answer: option 3: LAN
+6. Which device connects different computer networks and routes data packets between them?
+1) Switch
+2) Hub
+3) Modem
+4) Router
+Answer: option 4: Router
+7. What is the primary function of an antivirus software?
+1) To create backups
+2) To optimize memory
+3) To detect and remove malicious programs
+4) To manage files
+Answer: option 3: To detect and remove malicious programs
+8. Which term refers to unauthorized access to a computer system or network?
+1) Phishing
+2) Cracking
+3) Spamming
+4) Hacking
+Answer: option 4: Hacking
+9. The language used by web browsers to display web pages is:
+1) HTML
+2) C++
+3) Python
+4) Java
+Answer: option 1: HTML
+10. Which unit is used to measure the speed of the CPU (Central Processing Unit)?
+1) Byte
+2) Hertz
+3) Bit
+4) Meter
+Answer: option 2: Hertz

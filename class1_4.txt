@@ -1,0 +1,60 @@
+Question 1: What is the capital of France?
+1) Berlin
+2) Madrid
+3) Paris
+4) Rome
+Answer: Option 3: Paris
+Question 2: Who painted the Mona Lisa?
+1) Leonardo da Vinci
+2) Michelangelo
+3) Raphael
+4) Galileo
+Answer: Option 1: Leonardo da Vinci
+Question 3: What is the world's largest living thing?
+1) Blue whale
+2) Great green sea turtle
+3) Great Barrier Reef
+4) Dead jellyfish
+Answer: Option 3: Great Barrier Reef
+Question 4: Who wrote the story "Charlotte's Web"?
+1) Dr. Seuss
+2) J.K. Rowling
+3) E.B. White
+4) Mark Twain
+Answer: Option 3: E.B. White
+Question 5: What is the name of the largest country in South America?
+1) Brazil
+2) Argentina
+3) Peru
+4) Chile
+Answer: Option 3: Peru
+Question 6: Who was the first president of the United States?
+1) George Washington
+2) Abraham Lincoln
+3) Thomas Jefferson
+4) Franklin D. Roosevelt
+Answer: Option 1: George Washington
+Question 7: What is the world's longest mountain range?
+1) The Himalayas
+2) The Andes
+3) The Rocky Mountains
+4) The Appalachian Mountains
+Answer: Option 3: The Rocky Mountains
+Question 8: Who wrote the book "The Cat in the Hat"?
+1) Dr. Seuss
+2) J.K. Rowling
+3) E.B. White
+4) Roald Dahl
+Answer: Option 1: Dr. Seuss
+Question 9: What is the name of the largest city in Italy?
+1) Rome
+2) Florence
+3) Milan
+4) Venice
+Answer: Option 2: Florence
+Question 10: Who was the first woman to travel to space?
+1) Sally Ride
+2) Mae Jemison
+3) Valentina Tereshkova
+4) Rosalind Franklin
+Answer: Option 1: Sally Ride

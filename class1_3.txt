@@ -1,0 +1,60 @@
+Question 1: What is the capital of France?
+1) Berlin
+2) Madrid
+3) Paris
+4) Rome
+Answer: Option 3: Paris
+Question 2: Which part of a plant contains flowers?
+1) Root
+2) Stem
+3) Leaf
+4) Seed
+Answer: Option 3: Leaf
+Question 3: What is the largest planet in our solar system?
+1) Earth
+2) Saturn
+3) Jupiter
+4) Uranus
+Answer: Option 3: Jupiter
+Question 4: Which famous explorer sailed across the Atlantic Ocean?
+1) Christopher Columbus
+2) Vasco da Gama
+3) Ferdinand Magellan
+4) Juan Sebastián Elcano
+Answer: Option 1: Christopher Columbus
+Question 5: What is the largest living thing in the world?
+1) Blue whale
+2) Great white shark
+3) Dead sea siren
+4) Great blue tang
+Answer: Option 3: Dead sea siren
+Question 6: Which scientist developed the theory of gravity?
+1) Isaac Newton
+2) Albert Einstein
+3) Galileo Galilei
+4) Leonardo da Vinci
+Answer: Option 1: Isaac Newton
+Question 7: What is the process called when plants make their own food from sunlight?
+1) Respiration
+2) Photosynthesis
+3) Decomposition
+4) Fermentation
+Answer: Option 2: Photosynthesis
+Question 8: Which type of rock is formed from cooled magma?
+1) Igneous
+2) Sedimentary
+3) Metamorphic
+4) Fossilized
+Answer: Option 1: Igneous
+Question 9: What is the scientific term for the study of living organisms?
+1) Biology
+2) Zoology
+3) Ecology
+4) Botany
+Answer: Option 1: Biology
+Question 10: Which famous artist painted the ceiling of the Sistine Chapel?
+1) Leonardo da Vinci
+2) Michelangelo Buonarroti
+3) Raphael Sanzio
+4) Caravaggio
+Answer: Option 2: Michelangelo

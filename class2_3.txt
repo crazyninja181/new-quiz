@@ -1,0 +1,60 @@
+Question 1: What is the capital of France?
+1) Berlin
+2) Madrid
+3) Paris
+4) Rome
+Answer: Option 3: Paris
+Question 2: Which planet is closest to the Sun?
+1) Earth
+2) Saturn
+3) Jupiter
+4) Mars
+Answer: Option 2: Saturn
+Question 3: What is the process called when plants make their own food?
+1) Respiration
+2) Photosynthesis
+3) Decomposition
+4) Fermentation
+Answer: Option 2: Photosynthesis
+Question 4: Which type of rock is formed from melted lava?
+1) Igneous
+2) Sedimentary
+3) Metamorphic
+4) Foliated
+Answer: Option 1: Igneous
+Question 5: What is the largest planet in our solar system?
+1) Earth
+2) Saturn
+3) Jupiter
+4) Uranus
+Answer: Option 3: Jupiter
+Question 6: Which scientist developed the theory of evolution?
+1) Charles Darwin
+2) Galileo Galilei
+3) Isaac Newton
+4) Albert Einstein
+Answer: Option 1: Charles Darwin
+Question 7: What is the scientific term for "the movement of the earth's surface?"
+1) Plate Tectonics
+2) Continental Drift
+3) Ocean Current
+4) Weather Pattern
+Answer: Option 1: Plate Tectonics
+Question 8: Which type of energy is produced by the sun?
+1) Thermal Energy
+2) Electrical Energy
+3) Nuclear Energy
+4) Solar Energy
+Answer: Option 2: Electrical Energy
+Question 9: What is the scientific term for "the movement of animals from one place to another?"
+1) Migration
+2) Hibernation
+3) Respiration
+4) Photosynthesis
+Answer: Option 1: Migration
+Question 10: Which scientist developed the theory of gravity?
+1) Isaac Newton
+2) Galileo Galilei
+3) Albert Einstein
+4) Archimedes
+Answer: Option 1: Isaac Newton

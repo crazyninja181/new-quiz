@@ -1,0 +1,60 @@
+1. Subtract 45,89,123 from 70,00,000.
+1) 24,10,877
+2) 25,10,877
+3) 24,11,877
+4) 24,09,877
+Answer: option 1: 24,10,877
+2. What is the value of 15 - (-8)?
+1) 7
+2) 23
+3) -7
+4) -23
+Answer: option 2: 23
+3. Subtract -12 from -5
+1) -17
+2) -7
+3) 7
+4) 17
+Answer: option 1: -17
+4. Find the difference: 345.67 - 12.008
+1) 333.678
+2) 333.662
+3) 333.668
+4) 333.672
+Answer: option 2: 333.662
+5. A city's population is 82,34,500. If it grew to 1,05,20,000 in five years, how much did the population increase?
+1) 22,85,500
+2) 23,85,500
+3) 22,95,500
+4) 23,95,500
+Answer: option 1: 22,85,500
+6. The temperature at the peak of a mountain is -12°C and at the base is 5°C. What is the difference in temperature?
+1) 7°C
+2) 17°C
+3) -17°C
+4) -7°C
+Answer: option 2: 17°C
+7. A roll of cloth is 40.5 meters long. A tailor used 15.75 meters. How much cloth is left?
+1) 24.75 m
+2) 25.75 m
+3) 24.25 m
+4) 25.25 m
+Answer: option 1: 24.75 m
+8. What number must be subtracted from 25 to give -10?
+1) 15
+2) -15
+3) 35
+4) -35
+Answer: option 3: 35
+9. Simplify: 9,87,65,432 - 1,23,45,678.
+1) 8,64,19,754
+2) 8,64,09,754
+3) 8,64,19,744
+4) 8,63,19,754
+Answer: option 1: 8,64,19,754
+10. A submarine at -50 meters dives another 120 meters. What is the amount of the dive (the change in depth)?
+1) 170 m
+2) 70 m
+3) 120 m
+4) 50 m
+Answer: option 3: 120 m

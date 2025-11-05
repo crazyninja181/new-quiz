@@ -1,0 +1,60 @@
+1. Which is an example of an open-source operating system?
+1) Windows 10
+2) macOS
+3) Linux
+4) iOS
+Answer: option 3: Linux
+2. Which term describes the process of converting a high-level language program into machine code line by line?
+1) Compiling
+2) Assembling
+3) Interpreting
+4) Debugging
+Answer: option 3: Interpreting
+3. The smallest unit of digital information that a computer can process is a:
+1) Byte
+2) Word
+3) Bit
+4) Nibble
+Answer: option 3: Bit
+4. What is the maximum number of decimal digits that can be represented by one byte in binary coded decimal (BCD)?
+1) 1
+2) 2
+3) 4
+4) 8
+Answer: option 2: 2
+5. Which network topology connects all devices to a single backbone cable?
+1) Ring
+2) Star
+3) Mesh
+4) Bus
+Answer: option 4: Bus
+6. What is the primary function of the Control Unit (CU) in the CPU?
+1) Performing arithmetic operations
+2) Storing data temporarily
+3) Managing and coordinating all operations
+4) Communicating with peripherals
+Answer: option 3: Managing and coordinating all operations
+7. Which software is designed to protect your computer from unauthorized access or network attacks?
+1) Antivirus
+2) Utility Software
+3) Firewall
+4) Disk Defragmenter
+Answer: option 3: Firewall
+8. What does RAM stand for?
+1) Read Access Memory
+2) Random Access Module
+3) Random Access Memory
+4) Read Alot Memory
+Answer: option 3: Random Access Memory
+9. The unique address assigned to every device on a network that uses the Internet Protocol (IP) is the:
+1) MAC Address
+2) Ethernet Address
+3) IP Address
+4) URL
+Answer: option 3: IP Address
+10. In a database, which component holds a single piece of information about a record?
+1) Table
+2) Record
+3) Field
+4) File
+Answer: option 3: Field

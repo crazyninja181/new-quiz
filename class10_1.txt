@@ -1,0 +1,60 @@
+1. What is the value of the discriminant for the equation 2x² - 4x + 3 = 0?
+1) 16
+2) 4
+3) -8
+4) -4
+Answer: option 4: -4
+2. What is the sum of the zeroes of the quadratic polynomial x² - 7x + 10?
+1) 17
+2) 7
+3) 10
+4) 3
+Answer: option 2: 7
+3. If the area of a circle is 154 cm², what is its radius?
+1) 5 cm
+2) 6 cm
+3) 7 cm
+4) 8 cm
+Answer: option 3: 7 cm
+4. What is the distance between the points (3, 4) and (7, 1)?
+1) 5 units
+2) 3 units
+3) 4 units
+4) 6 units
+Answer: option 1: 5 units
+5. If the height of a cone is 12 cm and its radius is 5 cm, what is its volume?
+1) 100π cm³
+2) 200π cm³
+3) 300π cm³
+4) 400π cm³
+Answer: option 3: 300π cm³
+6. The coordinates of the centroid of a triangle with vertices (1, 1), (2, 3), and (3, 2) are:
+1) (2, 2)
+2) (1, 2)
+3) (2, 1)
+4) (3, 3)
+Answer: option 1: (2, 2)
+7. What is the probability of getting a multiple of 3 when a number from 1 to 10 is chosen at random?
+1) 1/5
+2) 3/10
+3) 2/5
+4) 4/9
+Answer: option 3: 2/5
+8. What is the value of sin 30° + cos 60°?
+1) 1
+2) 0
+3) 1/2
+4) 2
+Answer: option 1: 1
+9. What is the surface area of a sphere with radius 7 cm?
+1) 154π cm²
+2) 196π cm²
+3) 308π cm²
+4) 616π cm²
+Answer: option 4: 616π cm²
+10. Two tangents are drawn from an external point to a circle. What is the angle between them if they are equal in length and subtend 60° at the center?
+1) 60°
+2) 90°
+3) 120°
+4) 30°
+Answer: option 2: 90°

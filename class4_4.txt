@@ -1,0 +1,60 @@
+Question 1: Which is the largest continent?
+1) Africa
+2) Asia
+3) Europe
+4) Australia
+Answer: Option2: Asia
+Question 2: What is the capital of India?
+1) Mumbai
+2) New Delhi
+3) Kolkata
+4) Chennai
+Answer: Option2: New Delhi
+Question 3: Which animal is known as the King of the Jungle?
+1) Lion
+2) Tiger
+3) Elephant
+4) Leopard
+Answer: Option1: Lion
+Question 4: How many days are there in a leap year?
+1) 365
+2) 366
+3) 364
+4) 367
+Answer: Option2: 366
+Question 5: Which is the largest ocean?
+1) Atlantic
+2) Indian
+3) Arctic
+4) Pacific
+Answer: Option4: Pacific
+Question 6: Which is the fastest land animal?
+1) Lion
+2) Cheetah
+3) Horse
+4) Tiger
+Answer: Option2: Cheetah
+Question 7: Which is the national bird of India?
+1) Peacock
+2) Eagle
+3) Crow
+4) Sparrow
+Answer: Option1: Peacock
+Question 8: Which planet is called the Blue Planet?
+1) Earth
+2) Mars
+3) Jupiter
+4) Venus
+Answer: Option1: Earth
+Question 9: What is the color of a ripe mango?
+1) Green
+2) Yellow
+3) Red
+4) Blue
+Answer: Option2: Yellow
+Question 10: How many months are there in a year?
+1) 10
+2) 11
+3) 12
+4) 13
+Answer: Option3: 12

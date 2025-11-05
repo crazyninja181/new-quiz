@@ -1,0 +1,50 @@
+Question 1: Which part of the computer is known as its "brain"?
+1) Monitor
+2) Keyboard
+3) CPU
+Answer: Option3: CPU
+Question 2: What is the process of starting a computer called?
+1) Shutting down
+2) Booting
+3) Logging off
+Answer: Option2: Booting
+Question 3: Which memory is temporary and loses data when the power is turned off?
+1) ROM
+2) RAM
+3) Hard Disk
+Answer: Option2: RAM
+Question 4: What is the key combination to copy selected text?
+1) Ctrl + V
+2) Ctrl + C
+3) Ctrl + X
+Answer: Option2: Ctrl + C
+Question 5: Which device is used to input sound into the computer?
+1) Speaker
+2) Printer
+3) Microphone
+Answer: Option3: Microphone
+Question 6: What kind of software is Microsoft Word?
+1) System Software
+2) Utility Software
+3) Application Software
+Answer: Option3: Application Software
+Question 7: The smallest unit of data in a computer is a:
+1) Byte
+2) Bit
+3) Kilobyte
+Answer: Option2: Bit
+Question 8: Which part of MS Paint is used to draw straight lines?
+1) Pencil Tool
+2) Line Tool
+3) Fill Tool
+Answer: Option2: Line Tool
+Question 9: Which of these is an example of an internet browser?
+1) MS Word
+2) Google Chrome
+3) Windows Media Player
+Answer: Option2: Google Chrome
+Question 10: What does the acronym 'WWW' stand for?
+1) Wide World Web
+2) World Wide Web
+3) World Web Wide
+Answer: Option2: World Wide Web

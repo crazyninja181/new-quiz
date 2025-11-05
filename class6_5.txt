@@ -1,0 +1,60 @@
+1. Which device is known as the brain of the computer?
+1) Central Processing Unit
+2) Keyboard
+3) Monitor
+4) Mouse
+Answer: option 1: Central Processing Unit
+2. Which type of software is Windows or Linux?
+1) Application Software
+2) System Software
+3) Utility Software
+4) Programming Software
+Answer: option 2: System Software
+3. Which memory is temporary and loses data when the power is turned off?
+1) Hard Disk
+2) ROM
+3) Pen Drive
+4) RAM
+Answer: option 4: RAM
+4. The smallest unit of data in a computer is a:
+1) Bit
+2) Kilobyte
+3) Megabyte
+4) Byte
+Answer: option 1: Bit
+5. Which key is used to start a new paragraph in a word processor?
+1) Ctrl key
+2) Shift key
+3) Tab key
+4) Enter key
+Answer: option 4: Enter key
+6. An error in a computer program is commonly known as a:
+1) Bug
+2) Mistake
+3) Glitch
+4) Virus
+Answer: option 1: Bug
+7. Which of these is an input device?
+1) Monitor
+2) Speaker
+3) Printer
+4) Scanner
+Answer: option 4: Scanner
+8. What does WWW stand for in computing?
+1) Wide Window Web
+2) World Web Window
+3) Web World Wide
+4) World Wide Web
+Answer: option 4: World Wide Web
+9. Which language does a computer directly understand?
+1) Assembly language
+2) English language
+3) Machine language
+4) High-level language
+Answer: option 3: Machine language
+10. Which shortcut key combination is generally used to save a file?
+1) Ctrl + X
+2) Ctrl + P
+3) Ctrl + O
+4) Ctrl + S
+Answer: option 4: Ctrl + S

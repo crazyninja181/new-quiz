@@ -1,0 +1,60 @@
+Question 1: What is 2 × 3?
+1) 4
+2) 5
+3) 6
+4) 7
+Answer: Option1: 4
+Question 2: A cube has 8 faces. How many faces does it have in total?
+1) 10
+2) 12
+3) 16
+4) 24
+Answer: Option2: 16
+Question 3: What is the value of x in the equation 2x + 5 = 11?
+1) 2
+2) 3
+3) 4
+4) 6
+Answer: Option2: 4
+Question 4: A group of friends want to share some candies equally. If they have 24 candies and there are 4 friends, how many candies will each friend get?
+1) 3
+2) 4
+3) 5
+4) 6
+Answer: Option2: 4
+Question 5: What is the value of y in the equation 7y - 9 = 15?
+1) 2
+2) 3
+3) 4
+4) 5
+Answer: Option2: 4
+Question 6: A rectangle has a length of 8 cm and a width of 5 cm. What is its perimeter?
+1) 20
+2) 22
+3) 24
+4) 26
+Answer: Option3: 22
+Question 7: What is the value of z in the equation 6z + 10 = 19?
+1) 2
+2) 3
+3) 4
+4) 5
+Answer: Option2: 4
+Question 8: A group of students are playing a game where they have to share their points equally. If they have 24 points and there are 6 students, how many points will each student get?
+1) 3
+2) 4
+3) 5
+4) 6
+Answer: Option2: 4
+Question 9: What is the value of w in the equation 9w - 11 = 19?
+1) 2
+2) 3
+3) 4
+4) 5
+Answer: Option2: 4
+Question 10: A water tank can hold a total of 48 liters of water. If it already has 16 liters in it, how many more liters of water will it have?
+1) 8
+2) 10
+3) 12
+4) 20
+Answer: Option2: 16

@@ -1,0 +1,60 @@
+Question 1: What is 45 + 37?
+1) 81
+2) 82
+3) 83
+4) 84
+Answer: Option3: 83
+Question 2: What is 120 − 45?
+1) 70
+2) 75
+3) 80
+4) 85
+Answer: Option2: 75
+Question 3: What is 9 × 8?
+1) 72
+2) 73
+3) 74
+4) 71
+Answer: Option1: 72
+Question 4: What is 56 ÷ 7?
+1) 6
+2) 7
+3) 8
+4) 9
+Answer: Option3: 8
+Question 5: What is the next number in the series: 2, 4, 6, 8, ?
+1) 9
+2) 10
+3) 11
+4) 12
+Answer: Option2: 10
+Question 6: What is half of 150?
+1) 70
+2) 75
+3) 80
+4) 85
+Answer: Option2: 75
+Question 7: What is 15% of 200?
+1) 20
+2) 25
+3) 30
+4) 35
+Answer: Option3: 30
+Question 8: Which of these is a prime number?
+1) 21
+2) 29
+3) 35
+4) 39
+Answer: Option2: 29
+Question 9: What is 3square + 4square?
+1) 12
+2) 16
+3) 25
+4) 49
+Answer: Option3: 25
+Question 10: What is the perimeter of a square with side 8 cm?
+1) 32 cm
+2) 24 cm
+3) 16 cm
+4) 64 cm
+Answer: Option1: 32 cm

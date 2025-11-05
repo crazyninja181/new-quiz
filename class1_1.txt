@@ -1,0 +1,60 @@
+Question 1: What is 3 x 2?
+1) 4
+2) 5
+3) 6
+4) 8
+Answer: Option1: 4
+Question 2: A bookshelf has 5 shelves, and each shelf can hold 3 books. How many books can the bookshelf hold in total?
+1) 10
+2) 12
+3) 15
+4) 20
+Answer: Option2: 20
+Question 3: What is 9 - 4?
+1) 2
+2) 3
+3) 5
+4) 8
+Answer: Option2: 5
+Question 4: A bakery sells 12 loaves of bread per day. If each loaf contains 6 slices, how many slices does the bakery sell per day?
+1) 24
+2) 30
+3) 36
+4) 42
+Answer: Option2: 42
+Question 5: What is 8 - 3?
+1) 1
+2) 2
+3) 3
+4) 5
+Answer: Option2: 3
+Question 6: A water tank can hold 15 liters of water. If 4 liters are already in the tank, how many more liters can be added before the tank is full?
+1) 11
+2) 12
+3) 13
+4) 14
+Answer: Option2: 13
+Question 7: What is 6 x 9?
+1) 40
+2) 50
+3) 60
+4) 70
+Answer: Option3: 60
+Question 8: A pencil is divided into 9 parts. If 5 parts are taken out, how many parts are left?
+1) 0
+2) 2
+3) 5
+4) 10
+Answer: Option2: 5
+Question 9: What is 7 + 1?
+1) 6
+2) 8
+3) 9
+4) 11
+Answer: Option2: 9
+Question 10: A cube has 24 faces. If each face has 4 vertices, how many vertices does the cube have in total?
+1) 12
+2) 15
+3) 18
+4) 20
+Answer: Option2: 18

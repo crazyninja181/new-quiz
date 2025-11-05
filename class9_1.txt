@@ -1,0 +1,60 @@
+1. Which of the following is an irrational number?
+1) Square root of 4
+2) Pi
+3) Two-thirds
+4) Zero point three three three repeating
+Answer: option 2: Pi
+2. The degree of the polynomial p(x) = 5x^3 - 7x^2 + x - 2 is:
+1) 5
+2) 2
+3) 1
+4) 3
+Answer: option 4: 3
+3. What is the perpendicular distance of the point (-3, 5) from the y-axis?
+1) 5 units
+2) 8 units
+3) -3 units
+4) 3 units
+Answer: option 4: 3 units
+4. The equation y = 5 represents a line parallel to the:
+1) y-axis
+2) x-axis
+3) neither axis
+4) origin
+Answer: option 2: x-axis
+5. If two adjacent angles of a parallelogram are (2x + 25)° and (3x - 5)°, then the value of x is:
+1) 32°
+2) 34°
+3) 36°
+4) 30°
+Answer: option 1: 32°
+6. In triangle ABC, if AB = AC and ∠B = 70°, then ∠A is:
+1) 40°
+2) 50°
+3) 110°
+4) 70°
+Answer: option 1: 40°
+7. A chord of a circle is equal to the radius. The angle subtended by it on the major arc is:
+1) 60°
+2) 30°
+3) 90°
+4) 45°
+Answer: option 2: 30°
+8. If the volume of a cube is 125 cm³, what is its total surface area?
+1) 150 cm²
+2) 25 cm²
+3) 100 cm²
+4) 125 cm²
+Answer: option 1: 150 cm²
+9. The volume of a right circular cone with radius r and height h is:
+1) (1/3)πr²h
+2) πr²h
+3) 2πrh
+4) (4/3)πr³
+Answer: option 1: (1/3)πr²h
+10. The probability of an event that is impossible to occur is:
+1) -1
+2) 0.5
+3) 1
+4) 0
+Answer: option 4: 0

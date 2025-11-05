@@ -1,0 +1,50 @@
+Question 1: Which is the smallest continent by land area?
+1) Africa
+2) Australia
+3) Europe
+Answer: Option2: Australia
+Question 2: Who is the head of the government in India?
+1) President
+2) Prime Minister
+3) Chief Justice
+Answer: Option2: Prime Minister
+Question 3: Which organ purifies the blood in the human body?
+1) Heart
+2) Liver
+3) Kidney
+Answer: Option3: Kidney
+Question 4: The term 'Goal Kick' is associated with which sport?
+1) Basketball
+2) Football
+3) Cricket
+Answer: Option2: Football
+Question 5: Who invented the telephone?
+1) Thomas Edison
+2) Alexander Graham Bell
+3) Wright Brothers
+Answer: Option2: Alexander Graham Bell
+Question 6: Who wrote the famous story of 'Alice in Wonderland'?
+1) J.K. Rowling
+2) Lewis Carroll
+3) Roald Dahl
+Answer: Option2: Lewis Carroll
+Question 7: What is the official currency of Japan?
+1) Dollar
+2) Euro
+3) Yen
+Answer: Option3: Yen
+Question 8: What gas do plants primarily take from the air for photosynthesis?
+1) Oxygen
+2) Nitrogen
+3) Carbon Dioxide
+Answer: Option3: Carbon Dioxide
+Question 9: Which animal is known as the 'Ship of the Desert'?
+1) Elephant
+2) Camel
+3) Horse
+Answer: Option2: Camel
+Question 10: What is the unit used to measure the electric current?
+1) Volt
+2) Ampere
+3) Ohm
+Answer: Option2: Ampere

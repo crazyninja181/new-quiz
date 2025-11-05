@@ -1,0 +1,60 @@
+Question 1: What is 4 + 5?
+1) 3
+2) 6
+3) 8
+4) 9
+Answer: Option1: 9
+Question 2: A bookshelf has 5 shelves, and each shelf can hold 2 books. How many books can the bookshelf hold in total?
+1) 10
+2) 15
+3) 20
+4) 25
+Answer: Option2: 25
+Question 3: What is the next number in this sequence? 2, 5, 8, ?
+1) 1
+2) 3
+3) 6
+4) 10
+Answer: Option2: 10
+Question 4: A bakery sells 250 loaves of bread per day. If they sell bread for 20 days, how many loaves of bread do they sell in total?
+1) 400
+2) 500
+3) 600
+4) 800
+Answer: Option1: 800
+Question 5: What is the value of x in this equation? 3x + 2 = 7
+1) 1
+2) 2
+3) 4
+4) 6
+Answer: Option1: 6
+Question 6: A group of friends want to divide their money equally. If they have $150 and there are 5 friends, how much will each friend get?
+1) $15
+2) $20
+3) $30
+4) $45
+Answer: Option1: 30
+Question 7: What is the next number in this sequence? 3, 6, ?
+1) 2
+2) 5
+3) 8
+4) 11
+Answer: Option2: 11
+Question 8: A rectangle has a length of 10 cm and a width of 6 cm. What is its perimeter?
+1) 20
+2) 24
+3) 30
+4) 36
+Answer: Option2: 30
+Question 9: What is the value of y in this equation? 4y + 5 = 11
+1) 1
+2) 2
+3) 3
+4) 5
+Answer: Option1: 5
+Question 10: A water tank can hold 120 liters of water. If it fills with water at a rate of 30 liters per minute, how many minutes will it take to fill the tank?
+1) 3 hours
+2) 4 hours
+3) 6 hours
+4) 12 hours
+Answer: Option2: 3

@@ -1,0 +1,60 @@
+Question 1: Find the value of MINUS15 MINUS (MINUS28).
+1) MINUS43
+2) 13
+3) MINUS13
+4) 43
+Answer: Option2: 13
+Question 2: Subtract 30 from MINUS5.
+1) 25
+2) MINUS25
+3) 35
+4) MINUS35
+Answer: Option4: MINUS35
+Question 3: What is 5,00,000 MINUS 3,45,789?
+1) 1,44,211
+2) 1,55,211
+3) 2,44,211
+4) 1,54,211
+Answer: Option4: 1,54,211
+Question 4: Find the difference between 50.05 and 3.999.
+1) 46.151
+2) 47.051
+3) 46.051
+4) 46.041
+Answer: Option3: 46.051
+Question 5: Calculate 7BY8 MINUS 1BY4.
+1) 6BY8
+2) 3BY4
+3) 5BY8
+4) 6BY4
+Answer: Option3: 5BY8
+Question 6: Simplify (5x + 3y) MINUS (2x MINUS y).
+1) 7x + 4y
+2) 3x + 2y
+3) 3x + 4y
+4) 7x + 2y
+Answer: Option3: 3x + 4y
+Question 7: A submarine was at a depth of MINUS350 meters. It moved up 120 meters. What is its new position?
+1) 230 meters
+2) 470 meters
+3) MINUS470 meters
+4) MINUS230 meters
+Answer: Option4: MINUS230 meters
+Question 8: If a shirt costs Rs. 750.50 and you pay with a Rs. 1,000 note, how much change do you get?
+1) Rs. 249.50
+2) Rs. 250.50
+3) Rs. 350.50
+4) Rs. 349.50
+Answer: Option1: Rs. 249.50
+Question 9: If P = 4xTO THE POWER2 + 5x and Q = xTO THE POWER2 MINUS 2x, find P MINUS Q.
+1) 3xTO THE POWER2 + 3x
+2) 3xTO THE POWER2 + 7x
+3) 5xTO THE POWER2 + 7x
+4) 5xTO THE POWER2 + 3x
+Answer: Option2: 3xTO THE POWER2 + 7x
+Question 10: A tank was 9BY10 full of water. If 1BY5 of the total capacity was used, what fraction of water is left?
+1) 6BY10
+2) 10BY10
+3) 7BY10
+4) 8BY10
+Answer: Option3: 7BY10

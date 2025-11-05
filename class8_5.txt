@@ -1,0 +1,60 @@
+1. What is the standard protocol used for sending email messages?
+1) FTP
+2) POP3
+3) SMTP
+4) HTTP
+Answer: option 3: SMTP
+2. Which term describes a software that replicates itself and spreads to other computers?
+1) Adware
+2) Spyware
+3) Worm
+4) Trojan Horse
+Answer: option 3: Worm
+3. Which of the following is a key feature of an Object-Oriented Programming (OOP) language like Java or C++?
+1) Sequential execution
+2) Inheritance
+3) Linear programming
+4) Procedural approach
+Answer: option 2: Inheritance
+4. In MS-Excel, a formula must begin with which symbol?
+1) #
+2) =
+3) @
+4) $
+Answer: option 2: =
+5. Which component of a computer system stores instructions, data, and intermediate results?
+1) Input Unit
+2) Memory Unit
+3) Output Unit
+4) Control Unit
+Answer: option 2: Memory Unit
+6. Which type of software is designed to help the user perform a specific task, like creating a document?
+1) System Software
+2) Utility Software
+3) Operating System
+4) Application Software
+Answer: option 4: Application Software
+7. What is the process of translating source code into machine code one line at a time?
+1) Compiling
+2) Interpreting
+3) Debugging
+4) Assembling
+Answer: option 2: Interpreting
+8. In database management (DBMS), a row in a table is commonly referred to as a:
+1) Field
+2) Attribute
+3) Record
+4) Column
+Answer: option 3: Record
+9. What does the acronym HTML stand for?
+1) Hyper Text Markup Language
+2) High Tech Modern Language
+3) Hyperlink and Text Management Language
+4) Home Tool Markup Language
+Answer: option 1: Hyper Text Markup Language
+10. Which is a communication medium that uses light signals to transmit data over long distances?
+1) Coaxial Cable
+2) Twisted Pair Cable
+3) Fiber Optic Cable
+4) Infrared
+Answer: option 3: Fiber Optic Cable

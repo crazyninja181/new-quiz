@@ -1,0 +1,60 @@
+1. Which is the fundamental structure used in Web pages, defining their layout and content?
+1) CSS
+2) XML
+3) HTML
+4) JavaScript
+Answer: option 3: HTML
+2. Which term refers to the unique name that identifies a specific website on the internet?
+1) IP Address
+2) Protocol
+3) Domain Name
+4) Server
+Answer: option 3: Domain Name
+3. Which of the following is a key characteristic of the 'cloud computing' paradigm?
+1) Local storage on hard disk
+2) Software installation required
+3) On-demand network access to shared resources
+4) Fixed cost structure
+Answer: option 3: On-demand network access to shared resources
+4. The process of converting digital computer data into an analog signal for transmission over a phone line is done by a:
+1) Router
+2) Hub
+3) Switch
+4) Modem
+Answer: option 4: Modem
+5. In Python, which data type is immutable (cannot be changed after creation)?
+1) List
+2) Dictionary
+3) Tuple
+4) Set
+Answer: option 3: Tuple
+6. What is the process of finding and fixing errors in a program called?
+1) Compiling
+2) Testing
+3) Debugging
+4) Executing
+Answer: option 3: Debugging
+7. Which component of a DBMS (Database Management System) ensures that all data is consistent and accurate?
+1) Data Redundancy
+2) Data Integrity
+3) Data Duplication
+4) Data Security
+Answer: option 2: Data Integrity
+8. Which command in SQL is used to extract data from a database?
+1) UPDATE
+2) SELECT
+3) INSERT
+4) CREATE
+Answer: option 2: SELECT
+9. What is the term for unsolicited commercial email sent to a large number of addresses?
+1) Virus
+2) Hacking
+3) Phishing
+4) Spam
+Answer: option 4: Spam
+10. Which transmission medium provides the highest speed for data transfer?
+1) Coaxial Cable
+2) Twisted Pair Cable
+3) Satellite
+4) Fiber Optic Cable
+Answer: option 4: Fiber Optic Cable

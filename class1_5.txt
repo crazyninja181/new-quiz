@@ -1,0 +1,60 @@
+Question 1: What is the name of the program that helps you play games on your tablet?
+1) Google
+2) Microsoft
+3) Apple
+4) Facebook
+Answer: Option 3: Apple
+Question 2: Which scientist built the first computer?
+1) Isaac Newton
+2) Albert Einstein
+3) Leonardo da Vinci
+4) Charles Darwin
+Answer: Option 3: Leonardo da Vinci
+Question 3: What do you call a group of animals that live together on land and in water?
+1) A family of lions
+2) A colony of dolphins
+3) An ecosystem with plants, trees, and creatures
+4) A school of fish
+Answer: Option 3: An ecosystem
+Question 4: Who is the author of the book "Computer Science for Kids"?
+1) Isaac Newton
+2) Albert Einstein
+3) Jane Smith
+4) John Doe
+Answer: Option 3: Jane Smith
+Question 5: What do you call a small robot that can move around on its own?
+1) A toy car
+2) A remote control
+3) A computer program
+4) A mobile phone app
+Answer: Option 3: A mobile phone app
+Question 6: Which company makes computers and software for people to use in their homes?
+1) IBM
+2) Microsoft
+3) Apple
+4) Dell
+Answer: Option 3: Apple
+Question 7: What is the name of the language used by a computer program to communicate with humans?
+1) English
+2) Spanish
+3) French
+4) German
+Answer: Option 3: French
+Question 8: Who created the first operating system for computers?
+1) Steve Jobs
+2) Bill Gates
+3) Alan Turing
+4) Charles Babbage
+Answer: Option 3: Charles Babbage
+Question 9: What do you call a person who creates new and useful ideas to make life better?
+1) An artist
+2) A scientist
+3) A computer programmer
+4) A teacher
+Answer: Option 2) A scientist
+Question 10: Who developed the first calculator for people to use in their homes?
+1) Leonardo da Vinci
+2) Albert Einstein
+3) Isaac Newton
+4) Charles Babbage
+Answer: Option 4: Charles Babbage

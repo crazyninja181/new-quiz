@@ -1,0 +1,60 @@
+1. The cube root of 1331 is:
+1) 21
+2) 17
+3) 11
+4) 13
+Answer: option 3: 11
+2. Find the value of x in the equation 3x - 5 = 16.
+1) x = 21
+2) x = 7
+3) x = 3
+4) x = 5
+Answer: option 2: x = 7
+3. The sum of three consecutive integers is 72. Which is the smallest integer?
+1) 21
+2) 24
+3) 23
+4) 25
+Answer: option 3: 23
+4. If a shirt is sold for Rs. 800 at a loss of 20%, what was its cost price?
+1) Rs. 640
+2) Rs. 820
+3) Rs. 960
+4) Rs. 1000
+Answer: option 4: Rs. 1000
+5. Find the value of 4^0 + 2^0.
+1) 10
+2) 2
+3) 0
+4) 1
+Answer: option 2: 2
+6. What is the volume of a cube whose side measures 4 cm?
+1) 16 cm^2
+2) 64 cm^3
+3) 64 cm^2
+4) 16 cm^3
+Answer: option 2: 64 cm^3
+7. A number has a digital root of 5. Which of the following numbers could it be?
+1) 410
+2) 321
+3) 143
+4) 512
+Answer: option 4: 512
+8. If the angles of a quadrilateral are in the ratio 1:2:3:4, find the measure of the smallest angle.
+1) 36°
+2) 108°
+3) 72°
+4) 144°
+Answer: option 1: 36°
+9. Find the square root of 144.
+1) 72
+2) 14
+3) 12
+4) 12.2
+Answer: option 3: 12
+10. What is the area of a trapezoid with parallel sides a = 10 cm, b = 12 cm, and height h = 5 cm?
+1) 110 cm^2
+2) 55 cm^2
+3) 27 cm^2
+4) 50 cm^2
+Answer: option 2: 55 cm^2

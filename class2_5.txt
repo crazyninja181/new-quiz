@@ -1,0 +1,60 @@
+1. What is the name of the largest planet in our solar system?
+A) Earth
+B) Saturn
+C) Jupiter
+D) Mars
+Answer: Option 3: Jupiter
+2. Which part of a computer do we call the brain?
+A) Hard drive
+B) CPU (Central Processing Unit)
+C) Memory
+D) Power supply
+Answer: Option 1: CPU (Central Processing Unit)
+3. What is the highest level of organization in a school?
+A) Grade
+B) Class
+C) School
+D) Region
+Answer: Option 2: Grade
+4. Why do we use batteries in our toys and gadgets?
+A) Because they make them lighter
+B) Because they help us store energy
+C) Because they give us power to play
+D) Because they can be used as a toy too!
+Answer: Option 1: Because they make them lighter
+5. How do we tell computers which programs to run when we turn on the computer?
+A) We type in the program name
+B) We type in the command line
+C) We press Start button
+D) We type a letter 'Y' and then our favourite program name!
+Answer: Option 1: Because we type in the program name
+6. What is an example of computer science that we can use to help people?
+A) Programming for animals
+B) Developing software
+C) Creating games
+D) Making robots walk!
+Answer: Option 2: Programming for animals
+7. Which letter does our first word start with in the Computer Science alphabet?
+A) A
+B) B
+C) C
+D) D
+Answer: Option 1: A is Alphabet Letter 'A' for "Apple" or more like a computer:
+8. What type of information do computers process when they are turned on and ready to use?
+A) Only pictures
+B) Only music
+C) Pictures, music, videos
+D) Only text
+Answer: Option 1: Pictures, Music Videos
+9. What is the main purpose of a computer's keyboard?
+A) To type documents
+B) To play video games
+C) To help people communicate with others using computers
+D) All of above, except one because we can't use it to help people without a key pressed!
+Answer: Option 2: Pictures and Music Videos
+10. What do computers need in order to work properly?
+A) Water
+B) Food
+C) Gasoline
+D) Electricity
+Answer: Option 1: Electricity
